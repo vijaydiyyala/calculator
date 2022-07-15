@@ -1,5 +1,2 @@
 # calculator
-using
-.html
-.css
-.javascript
+using html,css,javascript

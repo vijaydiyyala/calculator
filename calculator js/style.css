@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(to right, #5eb147 0%, #2aa0c1 100%);
+}
+.col-md-6{
+ margin-top:150px;
+ background-image: linear-gradient(to right, #64aae0 0%, #00c9ff 100%);
+ border-radius: 40px;
+}
+input[type='button']{
+    width: 100% !important;
+    border: 3px solid black ;
+    background-color: rgba(75, 176, 151, 0.053);
+    padding: 5px;
+    margin-bottom: 5px;
+    color:white;
+    border-radius: 8px;
+}
+input[type='text']{
+    width: 100%;
+    border: 3px solid rgb(124, 175, 205);
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    margin-top: 3%;
+    font-weight: bolder;
+    color: aliceblue;
+}
+input[type='button']:hover{
+    background-color: yellowgreen;
+    transition: 0.5s;
+    transition-delay: 0.2s;
+}
